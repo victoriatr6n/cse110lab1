@@ -17,6 +17,8 @@ print("Hello World!)
 1. My favorite movie is Shrek
 2. My favorite fast food place is In-N-Out
 3. I love going to concerts and trying new things
+4. I have a dog named PoPo who is a Malte-poodle
+![dog](dog.JPG)
 
 ### Some items on my bucket list are
 - [ ] Take a trip to Yosemite National Park
