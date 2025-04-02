@@ -22,5 +22,5 @@ print("Hello World!)
 - [] See the Northern Lights
 - [] Learn how to swim
 
-Link to my name: [Link Text](#hi-im-victoria-tran)\n
+Link to my name: [Link Text](#hi-im-victoria-tran)  <br />
 Link to [README.md](README.md)
