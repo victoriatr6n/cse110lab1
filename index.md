@@ -1,4 +1,5 @@
 # Hi! I'm Victoria Tran
+![image](headshot.jpeg)
 - I am a second year Computer Science student at UC San Diego
 - I am an aspiring Software Engineer, and I am passionate about using my knowledge and experience in technology to create something that will have a significant impact on those around me. I enjoy interdisciplinary studies and being able to synthesize my knowledge from various subjects.
 - Outside of school, in my free time, I enjoy playing tennis, drawing/painting, listening to music, and baking.
