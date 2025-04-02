@@ -18,9 +18,9 @@ print("Hello World!)
 3. I love going to concerts and trying new things
 
 ### Some items on my bucket list are
-- [] Take a trip to Yosemite National Park
-- [] See the Northern Lights
-- [] Learn how to swim
+- [ ] Take a trip to Yosemite National Park
+- [ ] See the Northern Lights
+- [ ] Learn how to swim
 
 Link to my name: [Link Text](#hi-im-victoria-tran)  <br />
 Link to [README.md](README.md)
